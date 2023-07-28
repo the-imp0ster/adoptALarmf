@@ -1,0 +1,13 @@
+{
+  "name": "package.json",
+  "author": "Imp0ster",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^4.3.2"
+  }
+}
